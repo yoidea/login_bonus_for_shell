@@ -1,0 +1,69 @@
+{
+    "events": [
+        {
+            "condition": "continuous",
+            "value": 3,
+            "message": "🎉おめでとうございます🎉\n連続3日目のログインです！"
+        },
+        {
+            "condition": "continuous",
+            "value": 7,
+            "message": "🌸素晴らしい🌸\n連続7日目のログインです！"
+        },
+        {
+            "condition": "continuous",
+            "value": 14,
+            "message": "🏆よく頑張りました🏆\n連続14日目のログインです！"
+        },
+        {
+            "condition": "continuous",
+            "value": 30,
+            "message": "　　　　　　 ∴∴\n　　　　　　::＊::\n　　　　　　 ∵∵\n　　　＿＿＿_/\n　　／Happy / ＼\n　 (　連続30日目)\n　 |＼＿＿＿＿／|\n　_|ミU三8三υ彡|_\n（ ヽ三o三O三8Zノ )\n　`ー――――――′"
+        },
+        {
+            "condition": "continuous",
+            "value": 50,
+            "message": "👏おめでとうございます👏\n連続50日目のログインです！"
+        },
+        {
+            "condition": "continuous",
+            "value": 100,
+            "message": "　｡*☆∴｡　｡∴☆*｡\n｡★*ﾟﾟ*★∵★*ﾟﾟ*★｡\n☆ﾟ　　 ﾟ☆ﾟ　　 ﾟ☆\n★* 連続100日目  *★\nﾟ☆｡ おめでとう｡☆ﾟ\n　*★｡ございます★*\n　 ∵☆｡　　｡☆∵\n　　 ﾟ*★｡｡★*ﾟ"
+        },
+        {
+            "condition": "total",
+            "value": 10,
+            "message": "🎉おめでとうございます🎉\n通算10日目のログインです！"
+        },
+        {
+            "condition": "total",
+            "value": 30,
+            "message": "🌸素晴らしい🌸\n通算30日目のログインです！"
+        },
+        {
+            "condition": "total",
+            "value": 90,
+            "message": "🏆よく頑張りました🏆\n通算90日目のログインです！"
+        },
+        {
+            "condition": "total",
+            "value": 180,
+            "message": "　　　　　　 ∴∴\n　　　　　　::＊::\n　　　　　　 ∵∵\n　　　＿＿＿_/\n　　／Happy / ＼\n　 ( 通算180日目)\n　 |＼＿＿＿＿／|\n　_|ミU三8三υ彡|_\n（ ヽ三o三O三8Zノ )\n　`ー――――――′"
+        },
+        {
+            "condition": "total",
+            "value": 365,
+            "message": "　｡*☆∴｡　｡∴☆*｡\n｡★*ﾟﾟ*★∵★*ﾟﾟ*★｡\n☆ﾟ　　 ﾟ☆ﾟ　　 ﾟ☆\n★* 通算365日目  *★\nﾟ☆｡ おめでとう｡☆ﾟ\n　*★｡ございます★*\n　 ∵☆｡　　｡☆∵\n　　 ﾟ*★｡｡★*ﾟ"
+        },
+        {
+            "condition": "today",
+            "value": 5,
+            "message": "🎉おめでとうございます🎉\n本日5回目のログインです！"
+        },
+        {
+            "condition": "today",
+            "value": 10,
+            "message": "　　　 ＠＠＠＠\n　　 ＠本日10回目＠\n　 ∩＠ログイン＠\n　(･ω･＠＠＠＠\n　 ヽ っ＼　／\n　　∪∪ /∞ヽ"
+        }
+    ]
+}
