@@ -15,6 +15,7 @@ else
 	mkdir ~/.login_bonus_for_shell
 	cp ./* ~/.login_bonus_for_shell
 fi
+# .bash_profileの存在確認が必要
 check=`grep -ci "cd ~/.login_bonus_for_shell" ~/.bash_profile`
 if [ $check -eq 0 ] ; then
 	echo "cd ~/.login_bonus_for_shell" >> ~/.bash_profile
