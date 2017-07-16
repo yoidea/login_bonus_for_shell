@@ -30,27 +30,8 @@ Python3またはPython2のインストールされたMac、Linuxで動作しま�
 
 ## インストール
 ### install.shを使う
-まずインストールされているPythonのバージョンを確認します。
-```bash
-python --version
-```
-返ってくる文字列が、
-```bash
-Python 3.x.x
-```
-ならPython3系、
-```bash
-Python 2.x.x
-```
-ならPython2系がインストールされています。
-#### Python3系の場合
 ```bash
 sh install.sh
-```
-としてインストール完了。
-#### Python2系の場合
-```bash
-sh install_for_python2.sh
 ```
 としてインストール完了。
 
