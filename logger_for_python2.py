@@ -85,7 +85,7 @@ def check_event(log):
                 print(events[i]['message'])
 
 
-if __name__ == '__main__':
+def main():
     now = datetime.datetime.today()
     if os.path.exists('message.json') == False:
         print('"message.json"が見つかりません')
@@ -114,3 +114,7 @@ if __name__ == '__main__':
     show_message(log)
     check_event(log)
     sys.exit(0)
+
+
+if __name__ == '__main__':
+    main()
